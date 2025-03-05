@@ -102,6 +102,10 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "USDImporter",
+			"Enabled": true
 		}
 	]
 }
